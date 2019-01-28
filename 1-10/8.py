@@ -1,6 +1,6 @@
 ##
  # 
- # Title:       Largest Prime Factor
+ # Title:       Largest product in a series
  # Author:      Viswalahiri Swamy Hejeebu
  # GitHub:      https://github.com/Viswalahiri
  # LinkedIn:    https://in.linkedin.com/in/viswalahiri-hejeebu-45baa2155
