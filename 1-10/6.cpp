@@ -1,6 +1,6 @@
 /*
  * 
- * Title:       Multiples of 3 and 5
+ * Title:       Sum Square Difference
  * Author:      Viswalahiri Swamy Hejeebu
  * GitHub:      https://github.com/Viswalahiri
  * LinkedIn:    https://in.linkedin.com/in/viswalahiri-hejeebu-45baa2155
